@@ -1047,6 +1047,7 @@ var domains = [
   "xuchao.net", 
   "freeilhamtohti.org", 
   "haoel.github.io", 
+  "github.io",
   "greatfirewall.biz", 
   "sohcradio.com", 
   "5aimiku.com", 
